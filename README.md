@@ -1,2 +1,2 @@
 # Brandie
-An database on contact information and social media profiles
+A database of contact information and social media profiles
